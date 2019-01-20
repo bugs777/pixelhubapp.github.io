@@ -1,2 +1,0 @@
-# pixelhubapp.github.io
-PixelHubApp
