@@ -2460,11 +2460,11 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
 }
 
 .text-photo-sc .photo-holder.photo1 {
-    background-image: url("../images/photo1.jpg");
+    background-image: url("https://upbeat-cori-f6d03c.netlify.com/photo1.jpg");
 }
 
 .text-photo-sc .photo-holder.photo2 {
-    background-image: url("../images/photo2.jpg");
+    background-image: url("https://upbeat-cori-f6d03c.netlify.com/photo2.jpg");
 }
 
 .text-photo-sc .photo-holder img {
