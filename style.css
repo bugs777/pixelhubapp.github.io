@@ -33,7 +33,7 @@
 -------------------------------------------------------------------*/
 @import url("https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700");
 
-@import url("../fonts/hustbee.css");
+@import url("https://upbeat-cori-f6d03c.netlify.com/hustbee.css");
 /* -----------------------------------
     1 - General Styles
 ------------------------------------*/
@@ -1129,7 +1129,7 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
 }
 
 .features .img-holder {
-    background-image: url("../images/cloud-bg-sm.png");
+    background-image: url("https://upbeat-cori-f6d03c.netlify.com/cloud-bg-sm.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -1159,7 +1159,7 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("../images/cloud-bg.svg");
+    background-image: url("https://upbeat-cori-f6d03c.netlify.com/cloud-bg.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -1583,7 +1583,7 @@ nav.navbar .nav .open > a:hover, nav.navbar .nav .open > a:focus {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("../images/cloud-bg.svg");
+    background-image: url("https://upbeat-cori-f6d03c.netlify.com/cloud-bg.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
