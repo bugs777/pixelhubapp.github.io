@@ -1,6 +1,6 @@
-  
- var templateScript = $('#app').html();  
- var template = Handlebars.compile(templateScript);  
+
+var templateScript = $('#app').html();
+var template = Handlebars.compile(templateScript);
 $(document.body).append(template(config));
 
  var request = new XMLHttpRequest();
