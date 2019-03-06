@@ -81,7 +81,7 @@ input {
 	width: 204px;
 }
 
-.Registro input[type="submit"] {
+#create
 	background-color: #2c90c6;
 	border: 1px solid #2c90c6;
 	border-radius: 15px;
