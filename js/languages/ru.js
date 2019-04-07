@@ -1,4 +1,6 @@
 var config = {
+	appname:"HustBee",
+	title:"HustBee - Лучший облачный хостинг",
 	header:{
 		mobileopen:"Открыть",
         vk:"Группа ВК",
@@ -74,3 +76,4 @@ var config = {
 var templateScript = $('#app').html();
 var template = Handlebars.compile(templateScript);
 $(document.body).append(template(config));
+document.title = config["title"];
