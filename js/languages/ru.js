@@ -52,7 +52,7 @@ var config = {
 		freehits:"50 000 ежедневных хитов",
 		unlimthits:"Неограниченные хиты",
 		premiumsupport:"Премиум поддержка",
-		selectbuttons:"Выбрать",
+		selectbutton:"Выбрать",
 		month:"месяц",
         ptos:"Выбирая тариф, вы соглашаетесь с нашими",
         ptos2:"условиями обслуживания",
