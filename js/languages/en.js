@@ -10,7 +10,7 @@ var config = {
         tarif:"Tariffs",
         status:"Status of the platform",
         login:"Login",
-        register:"Join"
+        register:"Create account"
 	},
 	main:{
 		title:"Best cloud hosting",
