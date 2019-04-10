@@ -26,7 +26,7 @@ var config = {
         unlimitedhost:"Ulimited hosting",
         unlimitedhostfull:"HustBee - it is hosting sites with unlimited disk space and unlimited bandwidth.",
         noadsfull:"Your site is your own, we will never impose advertising on your site.",
-        h5title:"In recognition of our hard work and commitment to providing you with the highest quality hosting, we are proud to inform you that iFastNet(the sponsor of HustBee) has received the TMT Telecoms Award 2017 for "Best premium hosting"!",
+        h5title:"In recognition of our hard work and commitment to providing you with the highest quality hosting, we are proud to inform you that iFastNet(the sponsor of HustBee) has received the TMT Telecoms Award 2017 for 'Best premium hosting'!",
         sites:"Sites",
         clients:"Active clients",
         servers:"More than 100 servers with 32 cores per node",
