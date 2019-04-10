@@ -5,7 +5,7 @@ var config = {
 		mobileopen:"Open",
         vk:"Group VK",
         helpdeskz:"Knowledge base",
-        main:"Home"
+        main:"Home",
         whyus:"Why us",
         tarif:"Tariffs",
         status:"Status of the platform",
